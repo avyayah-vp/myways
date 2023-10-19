@@ -1,0 +1,17 @@
+.chatroom {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.chatroom-content {
+  height: 400px;
+  overflow-y: auto;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+}
+
+.chatroom-footer {
+  padding-top: 10px;
+}

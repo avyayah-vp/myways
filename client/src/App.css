@@ -1,0 +1,14 @@
+.App {
+  display: flex; /* Use flexbox to create a horizontal layout */
+}
+
+.chatroom-container {
+  width: 30%; /* 30% of the container width */
+  padding: 20px; /* Optional padding for the chatroom */
+}
+
+.taskboard-container {
+  width: 70%; /* 70% of the container width */
+  padding: 20px; /* Optional padding for the taskboard */
+  border-left: 1px solid #ccc; /* Vertical line to separate the components */
+}
